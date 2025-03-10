@@ -1,6 +1,7 @@
 # HireMap
 
 A simple webapp to track your job applications.
+
 *status* : *under* *development*
 
 
